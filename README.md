@@ -1,11 +1,11 @@
-# PacMen
+# Real Time Bus Tracker
 Developed using Visual Studio Code for Windows, learning how to combine fetching map data and JavaScript into a simple, but useful web application.
 ## How to install
 Place the index.html, mapanimation.js, and styles.css files in the same directory.
 ## Usage
 Open the index.html in a web browser of choice, then click the 'Show stops between MIT and Harvard' button in the top-left corner of the web page to start the animation.
 ## Roadmap
-Currently, all bus stops between MIT and Harvard are shown. Someday however, it will be possible to key in a specific bus number and show only the stops for that route.
+Currently, all available bus stops between MIT and Harvard are shown. Someday however, it will be possible to key in a specific bus number and show only the stops for that route.
 ## License
 MIT License
 Copyright (c) 2022 Dan Liljestig
